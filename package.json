@@ -1,5 +1,5 @@
 {
-    "name": "eslint-plugin-cierra-aria",
+    "name": "eslint-plugin-aria",
     "version": "1.0.1",
     "main": "index.js",
     "scripts": {
